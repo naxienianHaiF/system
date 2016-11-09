@@ -20,7 +20,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 </head>
 <body>
 	<div class="page-header">
-	  <h2>保呗系统 <small>WEB版</small></h2>
+	<h2>&nbsp;&nbsp;保呗系统 <small>WEB版</small></h2>
 	</div>
 	<ul id="myTab" class="nav nav-tabs">
 	    <li class="active">
